@@ -1,0 +1,36 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/collection/raj_bidri_pn.json",
+  "@type": "sc:Collection",
+  "label": "raj_bidri_pn",
+  "manifests": [
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/BHC001_BIDNageshwar_Raj20170705_PN01/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "BHC001_BIDNageshwar_Raj20170705_PN01"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/BHC001_BIDNageshwar_Raj20170705_PN02/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "BHC001_BIDNageshwar_Raj20170705_PN02"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/BHC001_BIDNageshwar_Raj20170705_PN03/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "BHC001_BIDNageshwar_Raj20170705_PN03"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/BHC001_BIDNageshwar_Raj20170705_PN04/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "BHC001_BIDNageshwar_Raj20170705_PN04"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/BHC001_BIDNageshwar_Raj20170705_PN05/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "BHC001_BIDNageshwar_Raj20170705_PN05"
+    }
+  ]
+}
