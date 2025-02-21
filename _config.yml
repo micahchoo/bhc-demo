@@ -19,8 +19,8 @@
 
 title:            'Bidar Heritage Center'
 description:      'A demo for the BHC Archives'
-url:              'https://minicomp.github.io'
-baseurl:          '/wax'
+url:              'https://micahchoo.github.io/'
+baseurl:          '/bhc-demo'
 copyright:        'Example copyright org, 2023'
 logo:             '/assets/logo.png'
 default_thumb:    '/assets/default.png'
