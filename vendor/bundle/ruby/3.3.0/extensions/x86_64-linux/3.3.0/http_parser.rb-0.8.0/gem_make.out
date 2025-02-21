@@ -1,0 +1,19 @@
+current directory: /media/micah-alex/2TA/Archiving/BHC/Wax demo/bhc_demo/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+/usr/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /media/micah-alex/2TA/Archiving/BHC/Wax demo/bhc_demo/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20250220-4550-q4t6iu sitelibdir\=./.gem.20250220-4550-q4t6iu clean
+
+current directory: /media/micah-alex/2TA/Archiving/BHC/Wax demo/bhc_demo/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20250220-4550-q4t6iu sitelibdir\=./.gem.20250220-4550-q4t6iu
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.so
+
+current directory: /media/micah-alex/2TA/Archiving/BHC/Wax demo/bhc_demo/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20250220-4550-q4t6iu sitelibdir\=./.gem.20250220-4550-q4t6iu install
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20250220-4550-q4t6iu
+
+current directory: /media/micah-alex/2TA/Archiving/BHC/Wax demo/bhc_demo/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20250220-4550-q4t6iu sitelibdir\=./.gem.20250220-4550-q4t6iu clean
